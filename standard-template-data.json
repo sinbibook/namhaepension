@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-09-28T01:51:30.037614893Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-09-28T01:52:51.407272272Z",
     "templateType": "trip_l",
     "propertyId": "d84ff246-856b-49fe-bebe-003e8f9e3c2f",
     "homepageId": "01a0a929-2eb2-729c-ac2a-cca2b02b3bbd"
@@ -890,7 +890,7 @@
                     "id": "01a0a929-4ebc-7034-8fb4-9d32267689b9",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0a929-2eb2-729c-ac2a-cca2b02b3bbd/main_hero/1789544445551-y64qccmcwr.webp",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "남해와",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -898,7 +898,7 @@
                     "id": "01a0a929-4fe2-76ee-9c44-454e8ad453e4",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0a929-2eb2-729c-ac2a-cca2b02b3bbd/main_hero/1789544445781-gknejd10ga.webp",
                     "sortOrder": 1,
-                    "description": "",
+                    "description": "독채펜션",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -906,7 +906,7 @@
                     "id": "01a0a929-4f6b-7207-b32f-a701f28c0929",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a0a929-2eb2-729c-ac2a-cca2b02b3bbd/main_hero/1789544445879-2g4ztwdlsm.webp",
                     "sortOrder": 2,
-                    "description": "",
+                    "description": "힐링감성",
                     "isSelected": true,
                     "blockId": null
                   },
